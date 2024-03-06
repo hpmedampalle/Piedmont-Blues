@@ -1,1 +1,17 @@
+/* styles.css */
 
+/* style for whatever meh i'm too cool to care */
+
+
+
+/* Style for images */
+img {
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+}
+
+/* Style for subtitles */
+.subtitle {
+    font-size: 80%;
+}
