@@ -2,7 +2,11 @@
 
 /* style for whatever meh i'm too cool to care */
 
-
+.img1 {
+  width: 40%;
+  position: relative;
+  top: -2.4rem;
+}
 
 /* Style for images */
 img {
