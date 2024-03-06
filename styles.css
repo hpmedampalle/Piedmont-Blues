@@ -1,5 +1,9 @@
 /* styles.css */
 
+/* style for whatever meh i'm too cool to care */
+
+
+
 /* Style for images */
 img {
     width: 200px;
@@ -9,5 +13,5 @@ img {
 
 /* Style for subtitles */
 .subtitle {
-    font-size: smaller;
+    font-size: 80%;
 }
