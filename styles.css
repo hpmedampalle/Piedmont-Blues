@@ -55,8 +55,9 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
-.citations {
-    
+.citation {
+    background-color: blue;
+    align-items: center;
 }
 
 .img-with-text {
