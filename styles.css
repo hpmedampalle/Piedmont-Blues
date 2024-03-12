@@ -65,6 +65,8 @@
 .img-with-text {
     text-align: center;
     width: [width of img];
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 .img-with-text img {
