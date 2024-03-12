@@ -62,6 +62,15 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.clink {
+
+    align-items: center;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
 .img-with-text {
     text-align: center;
     width: [width of img];
