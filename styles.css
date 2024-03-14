@@ -6,18 +6,6 @@
 /* style for whatever meh i'm too cool to care */
 
 
-.circle {
-    background-color: #fafafa;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 2rem;
-    height: 33rem;
-    width: 33rem;
-    border-radius: 50%;
-  }
  
   .pbjim {
     width: 5%;
@@ -31,12 +19,7 @@
     top: -2.4rem;
   }
  
-  /* Style for images */
-  .img {
-      width: 300px;
-      float: left;
-      margin-right: 10px;
-  }
+
  
   /* Style for subtitles */
   .subtitle {
